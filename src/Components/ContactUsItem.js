@@ -8,7 +8,7 @@ export default function ContactUsItem({
   content = "702-123-4567",
 }) {
   return (
-    <div className="col-md-4 col-12 mr-3 ml-3 pt-5 pb-4">
+    <div className="col-md-4 col-12 mr-3 ml-3 pt-5 pb-4 text-center justify-content-center d-flex">
         <a
                 className="nav-link"
                 href={linkHref}
